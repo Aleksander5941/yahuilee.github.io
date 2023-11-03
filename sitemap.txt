@@ -3,10 +3,10 @@ http://yahui-lee.github.io/about/index.html
 http://yahui-lee.github.io/tags/index.html
 http://yahui-lee.github.io/categories/index.html
 http://yahui-lee.github.io/self-talking/index.html
-http://yahui-lee.github.io/music/index.html
 http://yahui-lee.github.io/message/index.html
-http://yahui-lee.github.io/media/index.html
+http://yahui-lee.github.io/music/index.html
 http://yahui-lee.github.io/friend/index.html
+http://yahui-lee.github.io/media/index.html
 http://yahui-lee.github.io/album/index.html
 http://yahui-lee.github.io/2023/11/03/hello-world/
 http://yahui-lee.github.io/
