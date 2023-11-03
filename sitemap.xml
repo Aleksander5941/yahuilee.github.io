@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yahui-lee.github.io/self-talking/index.html</loc>
+    <loc>http://yahui-lee.github.io/resources/index.html</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -11,7 +11,34 @@
   </url>
   
   <url>
-    <loc>http://yahui-lee.github.io/message/index.html</loc>
+    <loc>http://yahui-lee.github.io/about/index.html</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yahui-lee.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yahui-lee.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yahui-lee.github.io/self-talking/index.html</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -29,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://yahui-lee.github.io/friend/index.html</loc>
+    <loc>http://yahui-lee.github.io/message/index.html</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -47,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://yahui-lee.github.io/about/index.html</loc>
+    <loc>http://yahui-lee.github.io/friend/index.html</loc>
     
     <lastmod>2023-11-03</lastmod>
     
